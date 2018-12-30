@@ -15,22 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LinkedList2.c">
+    <ClCompile Include="LinkedRead.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="NameCard.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ArrayList.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="NameCard.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="ArrayList.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
